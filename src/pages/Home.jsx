@@ -60,7 +60,7 @@ const Home=()=> {
      </h2>
      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
       <div class="p-6 bg-white rounded shadow">
-       <img alt="Portrait of a satisfied user 1" class="rounded-full mx-auto mb-4" src="https://placehold.co/100x100?text=User+1"/>
+       <img alt="Portrait of a satisfied user 1" class="rounded-full mx-auto mb-4 h-32 w-32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Outdoors-man-portrait_%28cropped%29.jpg/960px-Outdoors-man-portrait_%28cropped%29.jpg"/>
        <p class="italic">
         "This system saved my crops! Highly recommend."
        </p>
@@ -69,7 +69,7 @@ const Home=()=> {
        </h3>
       </div>
       <div class="p-6 bg-white rounded shadow">
-       <img alt="Portrait of a satisfied user 2" class="rounded-full mx-auto mb-4" src="https://placehold.co/100x100?text=User+2"/>
+       <img alt="Portrait of a satisfied user 2" class="rounded-full mx-auto mb-4 h-32 w-32" src="https://images.unsplash.com/photo-1611880147493-7542bdb0f024?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YW1lcmljYW4lMjBnaXJsfGVufDB8fDB8fH"/>
        <p class="italic">
         "Accurate and easy to use. A must-have for farmers."
        </p>
@@ -78,7 +78,7 @@ const Home=()=> {
        </h3>
       </div>
       <div class="p-6 bg-white rounded shadow">
-       <img alt="Portrait of a satisfied user 3" class="rounded-full mx-auto mb-4" src="https://placehold.co/100x100?text=User+3"/>
+       <img alt="Portrait of a satisfied user 3" class="rounded-full mx-auto mb-4 h-32 w-32" src="https://rbcdsai.iitm.ac.in/images/people/Anish-Abhijit-Diwan.jpg"/>
        <p class="italic">
         "Helped me identify diseases early and save my yield."
        </p>
